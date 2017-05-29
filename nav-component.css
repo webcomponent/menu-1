@@ -1,0 +1,14 @@
+nav {
+    background-color: #70EADF;
+    padding: 20px;
+}
+nav a {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 150%;
+}
+::content a {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 150%;
+}
